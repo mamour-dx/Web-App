@@ -9,19 +9,16 @@ body {
   font-family: "Sono", sans-serif;
   padding: 16px 32px;
 }
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-
 .header {
   margin-bottom: 40px;
   padding: 10px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .category {
